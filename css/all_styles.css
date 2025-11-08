@@ -1,0 +1,417 @@
+:root {
+    --my_button_color: rgb(55, 123, 168);
+    --my_button_color2: rgb(45, 103, 141);
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+main {
+    flex-grow: 1;
+}
+
+.button-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.btn-white {
+    background-color: #fff;
+    color: #000;
+    border-color: #fff;
+    width: 100%;
+    text-align: left;
+}
+
+.btn-white:hover {
+    background-color: #fff;
+    color: #1c8995;
+}
+
+.btn-white:active,
+.btn-white:focus {
+    background-color: #ffffff !important;
+    color: #1c8995 !important;
+    border-color: white !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.nav-item.dropdown .nav-link:focus,
+.nav-item.dropdown .nav-link:active,
+.nav-item.dropdown .nav-link.show {
+    background-color: transparent !important;
+    color: #000 !important;
+    outline: none;
+    box-shadow: none !important;
+}
+
+.equal-width-menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+}
+
+header.masthead {
+    color: rgb(97, 97, 97);
+    margin-bottom: 0;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row > [class*='col-'] {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.masthead {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+
+.section-heading {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.page-section {
+    padding: 100px 0;
+}
+
+.page-section.no-padding {
+    padding-top: 0;
+}
+
+.background-image-section {
+    height: 100% !important;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    position: relative;
+}
+
+.background-image-section::before,
+.category-background::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    filter: blur(5px);
+    z-index: 1;
+}
+
+.background-image-section h2,
+.background-image-section p {
+    position: relative;
+    z-index: 2;
+}
+
+.text-muted {
+    color: rgb(201, 201, 201) !important;
+}
+
+footer.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    margin-top: auto;
+}
+
+.category-card {
+    flex: 1;
+    margin-bottom: 0;
+}
+
+.category-background {
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    border-radius: 5px;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.category-background::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.category-background h4,
+.category-background p {
+    position: relative;
+    z-index: 2;
+}
+
+.index-bg { background-image: url('../images/index.jpeg'); }
+.youngest-bg { background-image: url('../images/bajka5.jpeg'); }
+.integration-bg { background-image: url('../images/bajka2.jpeg'); }
+.houseparty-bg { background-image: url('../images/bajka4.jpeg'); }
+.sports-bg { background-image: url('../images/sports.jpeg'); }
+.group_meeting-bg { background-image: url('../images/group_meeting.jpeg'); }
+.introduction-bg { background-image: url('../images/introduction.jpeg'); }
+.travel-bg { background-image: url('../images/travel.jpeg'); }
+.all_games-bg { background-image: url('../images/all_games.png'); }
+.search-results-bg { background-image: url('../images/search_results.jpeg'); }
+
+
+/* Search form styling */
+.search-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.search-bar-wrapper {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+    max-width: 100%;
+    gap: 0;
+}
+
+.search-bar-wrapper input.form-control {
+    border-radius: 0.25rem 0 0 0.25rem;
+    flex: 1;
+}
+
+.search-bar-wrapper button.btn-primary {
+    border-radius: 0 0.25rem 0.25rem 0;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    white-space: nowrap;
+    background-color: var(--my_button_color2);
+    border-color: var(--my_button_color2);
+    color: white;
+}
+
+.search-bar-wrapper button.btn-primary:hover {
+    background-color: var(--my_button_color);
+    border-color: var(--my_button_color);
+}
+
+.search-bar-wrapper button i {
+    margin-right: 5px;
+}
+
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Card layout */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: auto;
+}
+
+.card-title {
+    min-height: 50px; /* Opcjonalnie - zapewnia równość w nagłówkach */
+}
+
+.card-text {
+    font-size: 15px;
+    text-align: justify;
+    margin-bottom: 15px;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 3;          /* liczba widocznych linii */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+    line-height: 1.5;               /* stała wysokość linii */
+    max-height: calc(1.5em * 3);    /* 3 linie * wysokość linii */
+}
+.card-body .btn {
+    margin-top: auto; /* Wypycha przycisk na dół */
+}
+
+button.btn-outline-secondary {
+    margin-top: auto;
+    width: 100%;
+    height: 40px;
+    font-weight: bold;
+    background-color: var(--my_button_color2);
+    color: white;
+    border-color: var(--my_button_color2);
+    text-align: center;
+}
+
+button.btn-outline-secondary:hover {
+    background-color: var(--my_button_color);
+    border-color: var(--my_button_color);
+    color: white;
+}
+
+/* Szerszy modal */
+.modal-dialog {
+    max-width: 700px !important; /* możesz dać np. 1000px, jeśli chcesz jeszcze szerzej */
+    width: 90% !important;
+    margin: 30px auto !important; /* możesz zmienić 50px np. na 80px */
+}
+
+/* Wyśrodkowanie zawartości w modalu */
+.modal-body {
+    text-align: left; /* lub center, jeśli chcesz całość wyśrodkowaną */
+}
+
+.modal-body img {
+    display: block;
+    margin: 0 auto 20px auto; /* wyśrodkowuje zdjęcie i dodaje odstęp pod nim */
+    max-height: 400px;
+    object-fit: cover;
+}
+
+/* 🔹 Styl dla modala gry */
+#gameModal .modal-body {
+    max-height: 80vh;       /* maksymalna wysokość 80% wysokości okna przeglądarki */
+    overflow-y: auto;       /* przewijanie w pionie, jeśli treść jest za wysoka */
+    padding-right: 15px;    /* opcjonalnie, żeby scroll nie nachodził na treść */
+}
+
+/* 🔹 Dodatkowo styl dla całego modala, aby lepiej wyglądał na małych ekranach */
+#gameModal .modal-dialog {
+    margin: 1.75rem auto;  /* standardowe marginesy Bootstrap */
+    width: 90%;            /* szerokość modala */
+    max-width: 600px;      /* maksymalna szerokość, żeby nie był za szeroki */
+}
+
+/* Responsywność na telefonie */
+@media (max-width: 768px) {
+    .modal-dialog {
+        width: 95% !important;
+        max-width: none !important;
+    }
+}
+/* Dodatkowo zmniejszamy maksymalną wysokość modala */
+.modal-content {
+    max-height: 85vh; /* modal zajmie max 85% wysokości ekranu */
+    background-color: #fff;
+    overflow-y: auto; /* przewijanie, jeśli treść się nie mieści */
+    border-radius: 12px;
+    padding: 20px;
+}
+
+/* Modal styles */
+.modal-content {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.modal-header {
+    border-bottom: none;
+    padding-bottom: 15px;
+}
+
+.modal-body {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.modal .close {
+    font-size: 1.5rem;
+    color: #000;
+}
+
+/* Responsive cards */
+@media (max-width: 768px) {
+    .category-card {
+        flex: 1 0 100%;
+        
+    }
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 50px;
+    background-color: #2b4a6f;
+    border-radius: 50%;
+    opacity: 1;
+    z-index: 10;
+}
+
+.carousel-control-prev-icon{
+    background-size: 50% 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.5 0L4.8.7 2 3.5l2.8 2.8.7.7L3.2 3.5 5.5 0z'/%3E%3C/svg%3E");
+    width: 100%;
+    height: 100%;  
+}
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.5 0l.7.7L6 3.5 3.2 6.3l-.7.7L4.8 3.5 2.5 0z'/%3E%3C/svg%3E");
+    background-size: 50% 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+/* Dodatkowy margines, żeby nie wchodziło na treść */
+.carousel-control-prev {
+    left: -30px;
+}
+
+.carousel-control-next {
+    right: -30px;
+}
+
+.game-card {
+    width: 100%;
+    max-width: 350px;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ograniczenie opisu do 3 linijek */
+.text-truncate-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

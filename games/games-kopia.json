@@ -1,0 +1,462 @@
+[
+    {
+        "game_id": "1",
+        "title": "Węzeł Gordyjski",
+        "description": "Uczestnicy stają w kręgu, zamykają oczy i chwytają losowo za ręce innych osób (z wyjątkiem tych obok), tworząc „węzeł” z rąk. Kiedy każdemu udało się chwycić dłonie dwóch partnetów, grupa otwiera oczy, a jej zadaniem grupy jest rozwikłanie tego węzła, czyli rozplątanie się, bez puszczania rąk.",
+        "image": "images\/wezel.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "2",
+        "title": "Ninja",
+        "description": "Uczestnicy stają w ścisłym kręgu i dają ręce do środka. Odliczają do trzech i na trzy odskakują do tyłu przyjmując pozę wojownika ninja. Można również odskoczyć na bok, ale należy pamiętać o oryginalnej kolejności.<br><br>\r\nZaczyna wyznaczona osoba (lub ta, która wygrała w poprzedniej rundzie). Może ona jednym szybkim, mechanicznym ruchem „zaatakować” dowolnego uczestnika poprzez dotknięcie swoją dłonią, dłoni innej osoby. Jeżeli atak był udany, zaatakowana osoba chowa trafioną rękę za plecy (ręka odtąd jest nieaktywna). Gracz odpada w momencie wyeliminowania dwóch rąk.<br><br>\r\nUwaga! Wykonując „atak” można się tylko raz poruszyć. Można spróbować dotknąć czyjejś dłoni lub zmienić pozycję na bardziej wygodną. Osoba atakowana może wykonać unik, ale poruszając się tylko jeden raz. Może odskoczyć lub odchylić się. Ważne, aby zarówno osoba atakująca jak i atakowana po wykonaniu ruchu pozostała w zastanej pozycji.<br><br>\r\nKolejność wykonywania ruchu według kierunku wskazówek zegara. Jak tylko jedna osoba zakończy ruch, następna w kolejce może wykonać swój.<br><br>\r\nPamiętajcie, że jest to jedynie zabawa i należy uważać na bezpieczeństwo graczy. \r\n",
+        "image": "images\/ninja.jpeg",
+        "equipment": "brak",
+        "variety": "Podczas gry można przyjmować zabawne pozy i udawać głos ninja. Sprawdźcie, aby był to czas pełen radości i wygłupów. ",
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "Sportowe",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "3",
+        "title": "Goofie",
+        "description": "Zasłaniamy wszystkim uczestnikom oczy. Osoba prowadząca wyznacza jednego gracza na Goofiego, nie informując o tym pozostałych.<br><br>\r\nMożna ustalić, że wybór następuje przez dotknięcie w ramię.<br><br>\r\nNa sygnał rozpoczęcia, wszyscy powoli przemieszczają się po sali z zamkniętymi oczami.<br><br>\r\nKiedy spotkają inną osobę, pytają- Goofie?.<br><br>\r\nJeśli usłyszą odpowiedź: Tak, Goofie, kontynuują wędrówkę, gdyż Goofie, wybrany wcześniej nie może nic powiedzieć (w ten sposób możemy go rozpoznać, że nie odpowiada na pytania).<br><br>\r\nGdy któryś z graczy nie otrzyma odpowiedzi, chwyta Goofiego za ramiona i idzie za nim.<br>\r\nGra kończy się, gdy ostatnia osoba dołączy do Goofiego, który stanie się długim pociągiem.<br>\r\nKażdy, kto złapie Goofiego, również staje się Goofiem i nie może nic powiedzieć.\r\n",
+        "image": "images\/Goofie.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Integracyjne"
+        ]
+    },
+    {
+        "game_id": "4",
+        "title": "Wyścig sygnałów",
+        "description": "Uczestnicy zostają podzieleni na dwie grupy. Obie grupy siadają na krzesłach w dwóch ciągach. Z przodu pomiędzy kolejkami na stoliku\/krześle stawiamy dowolny przedmiot np. maskotkę lub cokolwiek innego, co będzie łatwe do złapania.<br><br>\r\nUczestnicy w każdym z ciągów kładą prawą dłoń na ramieniu osoby siedzącej przed nimi. Na samym końcu kolejki opiekun wyrzuca monetę. Tylko osoba na końcu każdej z kolejki może przyglądać się, co zostało wyrzucone. <br><br> Jeżeli będzie to orzeł – przekazuje do przodu znak poprzez delikatnie ściśnięcie ramienia osoby przed nią. Nie można podczas tej gry rozmawiać. Gdy sygnał dotrze do osoby z przodu ta sięga po maskotkę. Drużyna, która była szybsza przesuwa się o jedną osobę do przodu (ta która była na samym przodzie idzie do tyłu itd.).<br><br>\r\nGra kończy się, gdy któraś z drużyn pierwsza wróci na swoje pierwotne miejsce (wszyscy będą siedzieć na miejscach z których zaczynali grę). \r\n",
+        "image": "images\/wyscig_sygnalow.jpeg",
+        "equipment": "maskotka, moneta, krzesła",
+        "variety": null,
+        "comment": "Nie warto dawać fałszywego sygnału, ponieważ, jeżeli drużyna błędnie sięgnie po misia, sprzyja to przeciwnej drużynie, która może poruszyć się do przodu o jedną osobę.",
+        "categories": [
+            "Integracyjne"
+        ]
+    },
+    {
+        "game_id": "5",
+        "title": "Dyrygent",
+        "description": "Jest to świetna zabawa szczególnie dla większej grupy osób, im więcej tym lepiej.<br><br>\r\n\r\nOpiekun wybiera jedną z osób jako Zgadywacza. Zgadywacz wychodzi na moment z pomieszczenia lub idzie w ustronne miejsce.<br><br>\r\n\r\nW tym czasie opiekun wybiera Dyrygenta. Zadaniem Dyrygenta jest pokazywanie jakiegoś ruchu, a rolą reszty grupy w sposób dyskretny naśladować Dyrygenta.<br><br> \r\n\r\nZgadywacz wraca do grupy i próbuje zgadnąć kto jest Dyrygentem.<br><br> \r\n\r\nWażne jest, aby Dyrygent co chwilę zmieniał ruch do powtarzania, aby Zgadywacz mógł zauważyć, od której osoby zmiana wychodzi.<br><br> \r\n\r\nZgadywacz ma jedynie trzy szanse, aby zgadnąć. W innym razie, przegrywa.<br><br> \r\n",
+        "image": "images\/dyrygent.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne"
+        ]
+    },
+    {
+        "game_id": "6",
+        "title": "Jedno słowo na raz",
+        "description": "Zabawa najlepiej sprawdza się w małych zespołach. Wybieramy temat, na który będziemy rozmawiać. Może być to np. „Romantyczna historia” lub „Przemówienie kandydata na prezydenta”. Pole te pozostaje w Waszej kreatywności. \r\nUczestnicy zabawy mogą podawać kolejno tylko po jednym słowie, układając z ten sposób w miarę sensownie brzmiącą historię.<br><br> \r\nJest to nie tylko świetna gra rozwijająca kreatywne myślenie, lecz także okazja do radości z zabawnych historii, które powstają.<br><br> \r\n",
+        "image": "images\/jedno_slowo_na_raz.jpeg",
+        "equipment": "brak",
+        "variety": "Aby gra była ciekawsza, uczestników można podzielić na drużyny, które będą ze sobą konkurować o lepszą historię. Wygrywa ta ciekawsza lub ta, która zachowa ciągłość. ",
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "W drodze",
+            "Domówka",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "7",
+        "title": "Wędrująca moneta",
+        "description": "Gra rozpoczyna się od podzielenia uczestników na dwa zespoły, które siadają naprzeciwko siebie przy stole.<br><br> Jedna z drużyn otrzymuje monetę. W każdej grupie wybiera się kapitana.<br><br>\r\nCelem gry jest przekazywanie monety między członkami zespołu pod stołem, tak aby przeciwnicy nie widzieli, gdzie znajduje się moneta. Kapitan drugiej drużyny, obserwując ruchy, może w dowolnym momencie zawołać „stop”. W tym momencie drużyna przekazująca monetę musi położyć swoje zaciśnięte pięści na stole, dłonie skierowane w dół.<br><br>\r\nNa komendę „ręce”, członkowie drużyny rozkładają dłonie płasko na stole, starając się, aby nie zdradzić położenia monety. Można używać różnych technik, np. poruszać nogami czy łokciami, aby zagłuszyć dźwięk monety.<br><br>\r\nNastępnie kapitan zespołu przeciwnego, wraz z pomocą swojej drużyny, próbuje odgadnąć, w której ręce ukryta jest moneta. Jeśli trafi, moneta przechodzi do jego zespołu, a gra toczy się dalej. Jeśli nie, drużyna trzymająca monetę kontynuuje zabawę.\r\n",
+        "image": "images\/wedrujaca_moneta.jpeg",
+        "equipment": "moneta, stół",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "Domówka",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "8",
+        "title": "Imię i cecha",
+        "description": "Grupa siada w kółku. Zadaniem każdej osoby jest wymyślić przymiotnik pasujący do jej imienia. Warunek jest jeden: musi się zaczynać na tę samą literę co imię i najlepiej aby opisywał cechę charakteru tej osoby; np. miła Marysia, energiczny Eryk, radosny Radek itd. <br><br>Pierwsza osoba najpierw mówi swoje imię i cechę, np. miła Marysia. <br>Eryk, który jest po Marysi powtarza: miła Marysia i dodaje: radosny Radek. <br><br>Kolejna osoba będzie musiała powtórzyć już dwie poprzednie osoby itd. Zabawa kończy się, gdy wszyscy poprawnie powtórzą wszystkie imiona i cechy.<br><br>\r\nGra sprzyja poznaniu się, szczególnie gdy uczestnicy w ogóle się jeszcze nie znają. \r\n",
+        "image": "images\/imie_i_cecha.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "9",
+        "title": "Szafa grająca",
+        "description": "W tej grze najpierw trzeba podzielić się na kilka zespołów. Następnie należy wybrać temat przewodni, np. „gwiazda” i następująco po sobie drużynami próbujecie zaśpiewać kawałek jakiejś piosenki, w której znajduje się „gwiazda”. <br><br> Przegrywa/odpada ta drużyna, która pierwsza w ciągu 10 sekund nie zaśpiewa piosenki ze słowem przewodnim.",        "image": "images\/szafa_grajaca.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": "W tej zabawie jedna osoba musi zostać wyznaczona jako ta, która ocenia, czy dany występ zostanie zaliczony lub wskaże, że drużyna wykorzystała zbyt dużo czasu na zastanowienia. ",
+        "categories": [
+            "Integracyjne",
+            "Domówka"
+        ]
+    },
+    {
+        "game_id": "10",
+        "title": "Wszystko na literę P",
+        "description": "Jeden z graczy podaje wyznaczonej osobie hasło, które ta będzie musiała wyjaśnić reszcie grupy, by ta zgadła o czym mowa. <br><br>\r\nCała trudność jednak polega na tym, że przy opowiadaniu musi używać jedynie słów zaczynających się na literę \"p\". Przykład: Hasło: Miłość - Pasja, przyjaźń, poświęcenie, pielęgnacja, pragnienie, pochwała, partnerstwo, promienność, poczucie, pozytywność, przynależność, piękno.",
+        "image": "images\/wszystko_na_litere_p.jpeg",
+        "equipment": "brak",
+        "variety": "Podobne rozgrywki można stworzyć używając innej litery. ",
+        "comment": null,
+        "categories": [
+            "W drodze",
+            "Domówka"
+        ]
+    },
+    {
+        "game_id": "11",
+        "title": "Krzyżówka z imienia",
+        "description": "Każdy uczestnik zapisuje swoje imię pionowo, używając wielkich liter na kartce. Następnie do każdej litery dodaje poziomo słowo lub frazę, która w jakiś sposób go opisuje. W efekcie tworzy się coś na kształt krzyżówki, np.:<br><br>\r\n[O]glądam filmy science-fiction\r\n[L]ubię jeździć na rowerze\r\n[A]mbitna\r\n",
+        "image": "images\/krzyzowka_z_imienia.jpeg",
+        "equipment": "kartki papieru, kolorowe flamastry",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "12",
+        "title": "Krokodyl",
+        "description": "Prowadzący udaje, że trzyma jakiś przedmiot, mówiąc: „Mam na imię... np. Asia, a to jest krokodyl” i przekazuje go kolejnej osobie. Ta osoba przyjmuje „przedmiot” i mówi: „Mam na imię... np. Marek, to jest krokodyl, otrzymałem go od Asi”. <br><br> Każda kolejna osoba, odbierając „przedmiot”, musi powtórzyć imiona wszystkich osób, które wcześniej go przekazywały.",
+        "image": "images\/krokodyl.jpeg",
+        "equipment": "patyk",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "13",
+        "title": "Pajęczyna",
+        "description": "Prowadzący zaczyna zabawę, przedstawiając się i rzucając kłębek wełny do wybranej osoby w kręgu, jednocześnie zatrzymując koniec nitki. <br><br>\r\nTa osoba również się przedstawia, a następnie przekazuje kłębek dalej, trzymając przy sobie nitkę. W ten sposób tworzy się „pajęcza sieć” między uczestnikami.<br><br>\r\nKiedy kłębek dotrze do ostatniej osoby, zaczyna ona go zwijać, wymieniając imiona osób, do których kłębek był wcześniej rzucony.",
+        "image": "images\/pajeczyna.jpeg",
+        "equipment": "kłębek wełny",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "14",
+        "title": "Ludek",
+        "description": "Dzielimy się na zespoły po 5-7 osób. <br><br> \r\nKażda grupa dostaje kawałek papieru i ma za zadanie stworzyć wspólną postać. Postać ta powinna odzwierciedlać cechy wszystkich członków grupy. <br><br>\r\nNa przykład, jeśli ktoś lubi biegać, a ktoś inny gotuje, można narysować buty do biegania obok postaci oraz garnki w jej rękach. <br> \r\nJeśli jedna osoba nosi czapkę, a inna ma długie włosy, to nasza postać będzie miała te elementy. Na koniec każda grupa przedstawia swoją postać pozostałym uczestnikom.",
+        "image": "images\/ludek.jpeg",
+        "equipment": "duży arkusz papieru, flamastry",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Zapoznawcze",
+            "Integracyjne"
+        ]
+    },
+    {
+        "game_id": "15",
+        "title": "Alfabetyczna historyjka",
+        "description": "Dzielimy graczy na kilkuosobowe grupy. <br><br>\r\nKażda grupa ma za zadanie w wyznaczonym czasie stworzyć opowiadanie, w którym kolejno pojawią się wszystkie litery alfabetu. <br><br> \r\nDobrze, jeśli w opowieści pojawią się imiona uczestników, np.: „Ania biega codziennie do efektownego...”. Na zakończenie zabawy grupy odczytują swoje historie. \r\n",
+        "image": "images\/alfabetyczna_historyjka.jpeg",
+        "equipment": "kartki, długopisy",
+        "variety": "Dla starszych uczestników można stworzyć dynamiczną wersję tej gry do wymyślania po kolei kolejnego słowa w układance historii bez dzielenia na drużyny.",
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "W drodze",
+            "Domówka",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "16",
+        "title": "Kartki na plecach",
+        "description": "Gracze są podzieleni na kilkuosobowe zespoły. Zabawa najlepiej sprawdza się pod koniec wspólnego spotkania lub wyjazdu. \r\nKażdemu uczestnikowi przypina się na plecach kartkę z nagłówkami „Jestem”, „Lubię”, „Cenię się za”. <br><br> \r\nPozostali gracze dopisują do tych nagłówków miłe i zgodne z rzeczywistością uwagi, np. „Jestem... pomocny”, „Lubię... czytać książki”, „Cenię się za... poczucie humoru”.\r\n",
+        "image": "images\/kartki_na_plecach.jpeg",
+        "equipment": "kartki papieru, taśma klejąca, flamastry",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "17",
+        "title": "Świnka",
+        "description": "W zabawie Świnka jedna osoba stoi na środku kręgu, a reszta uczestników tworzy wokół niej koło. Osoba w środku podchodzi do wybranego uczestnika i wydaje zabawny dźwięk, np. „chrum chrum” (lub „łi łi”) jak świnka. <br><br>\r\nZadaniem osoby, do której zwróci się „świnka”, jest odpowiedzieć poważnym tonem:<br>\r\n„Dlaczego chrumkasz, mała, różowa świnko?”. <br><br> \r\nCała trudność polega na tym, aby nie wybuchnąć śmiechem. Jeśli osoba odpowiedzialna nie potrafi zachować powagi i się zaśmieje, wchodzi do środka kręgu i kontynuuje zabawę, próbując rozśmieszyć kolejnych uczestników.",
+        "image": "images\/swinka.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "18",
+        "title": "Kto tak jak ja?",
+        "description": "Siadamy w kręgu na krzesłach. Krzeseł musi być o jeden mniej niż uczestników Pośrodku stoi osoba, która mówi zdanie: Kto tak jak ja… (i tutaj dodaje jakąś rzecz dotyczącą swojej osoby). <br><br>\r\nNp. Kto tak jak ja lubi jeść pierogi? <br><br>\r\nWszystkie osoby, które lubią jeść pierogi wstają ze swojego miejsca i próbują usiąść na dostępne miejsca. Osoba, dla której zabraknie miejsca w danej rundzie staje na środku. ",
+        "image": "images\/kto_tak_jak_ja.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Zapoznawcze",
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "19",
+        "title": "Rozumiemy się bez słów",
+        "description": "Nie używając słów grupa ma wykonywać następujące po kolei zadania. <br><br>\r\nUstawić się: <br>\r\n•\tOd najniższego do najwyższego. <br>\r\n•\tPo kolei według miesięcy <br> urodzenia. <br>\r\n•\tPo kolei według ilości posiadanego rodzeństwa. <br>\r\n•\tGrupami według hobby. \r\n",
+        "image": "images\/rozumiemy_sie_bez_slow.jpeg",
+        "equipment": "",
+        "variety": null,
+        "comment": null,
+        "categories": []
+    },
+    {
+        "game_id": "20",
+        "title": "Tunel",
+        "description": "Z głośnika puszczamy energiczną, taneczną muzykę. <br><br>Ustawiamy się w parach: jedna za drugą i robimy tunel. <br><br>Osoba bez pary biegnie przez środek tunelu i porywa za sobą jedną ze stojących osób. Osoba, której zabrano parę biegnie na początek tunelu, wbiega do środka i znajduje sobie nową parę.",
+        "image": "images\/tunel.jpeg",
+        "equipment": "brak",
+        "variety": "",
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Zapoznawcze",
+            "Integracyjne"
+        ]
+    },
+    {
+        "game_id": "21",
+        "title": "Zabójca",
+        "description": "Należy przygotować kawałki papieru. <br><br>Na każdym z nich napisać literę „O” (Ofiara), z wyjątkiem dwóch kartek. Na jednej z tych kartek napisać literę „M” (Morderca), a na drugiej literę „D” (Detektyw). <br><br>Uczestnicy zostają ustawieni w kole. Kartki są pomieszane w kapeluszu i każdemu graczowi rozdawana jest jedna kartka. <br><br>\r\nPo rozdaniu kartek każdy uczestnik sprawdza, jaką rolę ma odegrać. Następnie, po krótkim czasie przygotowania, prowadzący ogłasza start gry. <br><br>\r\nUczestnicy obserwują się nawzajem. <br><br>Morderca, gdy nawiąże kontakt wzrokowy z inną osobą, mruga do niej dwukrotnie, co oznacza, że ta osoba została „zabita” i musi skrzyżować ręce. <br><br>\r\nDetektyw ma za zadanie odkryć tożsamość mordercy. W zależności od liczby uczestników, detektywowi można przyznać ograniczoną liczbę prób na zgadnięcie. Gra kończy się, gdy detektyw zidentyfikuje mordercę lub gdy morderca „zabije” wszystkich uczestników poza detektywem. \r\n",
+        "image": "images\/zabojca.jpeg",
+        "equipment": "karteczki, długopis",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "22",
+        "title": "Cebula",
+        "description": "Osoby w kręgu odliczają do dwóch. Wszyscy stają w dwóch kołach, zewnętrznym (jedynki) i wewnętrznym (dwójki) zwróceni do siebie plecami. <br><br> \r\nProwadzący zabawę puszcza muzykę, a okręgi kręcą się w dwóch przeciwnych kierunkach. Gdy muzyka ucichnie, uczestnicy zatrzymują się i odwracają się do siebie twarzami. Prowadzący czyta temat rozmowy lub polecenie, które para ma wykonać. Po minucie prowadzący daje sygnał, by zakończyć rozmowę. Uczestnicy odwracają się ponownie plecami do siebie i kręcą się, gdy gra muzyka. <br><br>\r\n\r\nPrzykładowe tematy rozmów:<br><br>\r\n•\tJakie mam hobby, co najbardziej lubię robić? <br>\r\n•\tMój ulubiony film to… <br>\r\n•\tMoja ulubiona książka to… <br>\r\n•\tJaką chciałbyś mieć supermoc? <br>\r\n•\tJakie jest moje największe marzenie? <br>\r\n•\tCo najbardziej lubię w wakacjach? <br>\r\n•\tKto jest moim ulubionym bohaterem (z filmu, książki lub gry)? <br>\r\n•\tGdybym miał(a) milion złotych, to co bym zrobił(a)? <br>\r\n•\tUlubiona potrawa. <br>\r\n•\tMoje najfajniejsze wakacyjne wspomnienie. <br>\r\n•\tKim chcę być w przyszłości? <br>\r\n<br><br>\r\nPrzykładowe zadania:<br><br>\r\n•\tUściśnijcie sobie dłoń.<br>\r\n•\tPrzybijcie piątkę.<br>\r\n•\tPogłaszczcie się po głowie.<br>\r\n•\tPowiedzcie sobie nawzajem coś miłego o sobie.<br>\r\n",
+        "image": "images\/cebula.jpeg",
+        "equipment": "głośnik",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "23",
+        "title": "Imienne piłeczki",
+        "description": "Grupa ustawia się w kręgu. Prowadzący rzuca piłkę do jednej z osób, wyraźnie wypowiadając jej imię, aby upewnić się, że osoba wie, że to do niej kierowana jest piłka. <br><br>Ważne jest, aby zapamiętać, komu się rzuca i zawsze podawać piłkę tej samej osobie. Po pierwszej rundzie próbnej, gra rozpoczyna się od nowa. <br><br>Kiedy piłka dotrze do czwartej lub piątej osoby, prowadzący wprowadza kolejną piłkę, która powinna podążać tą samą trasą, co poprzednia.<br><br> Można wprowadzić tyle piłek, ile mamy dostępnych. Wkrótce w grze jest wiele piłek, a osoby rzucające muszą głośno wołać imiona tych, do których piłki lecą, aby utrzymać porządek w grze.",
+        "image": "images\/imienne_pileczki.jpeg",
+        "equipment": "piłeczki",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "24",
+        "title": "Dłonie",
+        "description": "Każdy uczestnik zabawy odrysowuje na kartce swoją dłoń i wpisuje w rogu swoje imię. Wszyscy siedzą w kręgu, aby się wzajemnie widzieć. Kartki następnie przesuwamy zgodnie z ruchem wskazówek zegara. <br><br>\r\nProwadzący za każdym razem podaje rodzaj przedmiotu, poprzez który mamy przedstawić osobę, której ręka odrysowana jest na kartce znajdującej się właśnie przed nami. <br><br>Powinniśmy znaleźć taki rodzaj tego przedmiotu, który najbardziej kojarzy nam się z daną osobą. Np. prowadzący(-ca) mówi: „Samochód” i wtedy wszyscy rysują ten typ samochodu, który przypomina im cechami opisywaną osobę (np. Dżip, mały Fiat). <br><br>Możemy podawać rodzaj owocu, kwiat, element ubrania, potrawę, rodzaj czasopisma, budynek itp. Na zakończenie kartka wraca do właściciela, który może zobaczyć, jak widzą go inni.\r\n",
+        "image": "images\/dlonie.jpeg",
+        "equipment": "kartki, kredki, flamastry",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Zapoznawcze",
+            "Integracyjne",
+            "Domówka"
+        ]
+    },
+    {
+        "game_id": "25",
+        "title": "Zasłona",
+        "description": "Uczestnicy zostają podzieleni na dwie drużyny, które stają po przeciwnych stronach zasłony, tak aby się nie widziały. <br> <br>Każda z drużyn wybiera jedną osobę, która podchodzi blisko zasłony. Gdy zasłona opada, zadaniem uczestników jest jak najszybsze wypowiedzenie imienia osoby stojącej naprzeciwko. <br> <br>Kto pierwszy poda poprawnie imię, wygrywa i zabiera przeciwnika do swojej drużyny. <br> <br>",
+        "image": "images\/zaslona.jpeg",
+        "equipment": "zasłona\/koc",
+        "variety": "<br>\r\n– Drużyny mogą wybierać po dwie lub trzy osoby, które jednocześnie podchodzą do zasłony. <br>\r\n– Wybrana osoba siada tyłem do zasłony, zwrócona twarzą do swojej drużyny. Gdy zasłona opada, drużyna musi szybko opisać osobę po drugiej stronie, nie używając imion, a wytypowana osoba musi zgadnąć i głośno powiedzieć jej imię.\r\n",
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "26",
+        "title": "Pif-paf",
+        "description": "Uczestnicy ustawiają się w kręgu, stojąc blisko siebie. <br><br>Osoba rozpoczynająca wskazuje dowolną osobę w kręgu (z wyjątkiem dwóch stojących najbliżej niej) i mówi „PIF”. Wskazana osoba kuca, a osoby po jej bokach muszą jak najszybciej „strzelić” do siebie, mówiąc „PAF”. Ten, kto zareaguje wolniej, odpada z gry.<br><br>\r\nNową rundę rozpoczyna osoba, która kucała.",
+        "image": "images\/pif_paf.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "27",
+        "title": "Zip-zap",
+        "description": "Uczestnicy siedzą w kręgu na krzesłach, przy czym krzeseł jest o jedno mniej niż osób. <br><br>Jedna osoba stoi na środku i chce zająć wolne miejsce. Podchodzi do kogoś z siedzących i mówi „ZIP”. Wtedy osoba wskazana musi szybko podać imię swojego sąsiada po prawej stronie. Gdy osoba na środku powie „ZAP”, trzeba szybko powiedzieć imię sąsiada po lewej stronie. <br><br>Jeśli ktoś zapomni imienia sąsiada lub zwleka z odpowiedzią, zamienia się miejscem z osobą stojącą w środku. <br><br>Gdy osoba na środku powie „ZIP ZAP”, wszyscy uczestnicy zamieniają się miejscami, a osoba na środku próbuje usiąść.",
+        "image": "images\/zip_zap.jpeg",
+        "equipment": "krzesła",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Zapoznawcze"
+        ]
+    },
+    {
+        "game_id": "28",
+        "title": "Zamrożony (na dłoń)",
+        "description": "Wszyscy uczestnicy trzymają jedną rękę na plecach, z otwartą dłonią skierowaną na zewnątrz, a druga ręka jest wolna. <br><br> Jedna osoba pełni rolę „zbijającego” i ma za zadanie klepnąć wolną ręką w dłoń innego uczestnika na jego plecach. <br><br>„Zbity” uczestnik musi kucnąć, trzymając dłoń na plecach. Inni gracze mogą go uratować, klepiąc go we wnętrze dłoni na plecach, co pozwala mu wstać i kontynuować grę. <br><br>Przy większych grupach można wybrać dwóch „zbijających”, których celem jest sprawienie, by jak najwięcej osób kucnęło.",
+        "image": "images\/zamrozony_na_dlon.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Sportowe"
+        ]
+    },
+    {
+        "game_id": "29",
+        "title": "Haki",
+        "description": "Uczestnicy dobierają się w dwójki trzymając się pod ramię.<br><br> Ważne, jest aby pary stały luźno rozstawione, by było miejsce do swobodnego przemieszczania się pomiędzy nimi. <br><br> Jedna osoba z całej grupy jest łowcą a druga ściganym.<br><br> Ścigany może uchronić się przed Łowcą, dołączając do którejś z par od zewnątrz. <br><br>Osoba, która stoi po drugiej zewnętrznej stronie pary, musi szybko się odłączyć i zostaje nowym łowcą. W tym czasie poprzedni łowca staje się ściganym.",
+        "image": "images\/haki.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne",
+            "Sportowe",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "30",
+        "title": "Jako tako",
+        "description": "Grupa siedzi w kręgu. <br><br>Jedna osoba stoi w środku, wskazuje na dowolną osobę i pyta: „Jak się masz?”. Zapytana osoba ma trzy możliwości odpowiedzi: „Dobrze”, „Źle” „Jako tako”. <br><br>Jeśli padnie odpowiedź „Jako tako” – nie dzieje się nic i osoba znajdująca się w środku wyszukuje kolejną osobę siedzącą w kręgu i zadaje jej pytanie „Jak się masz?”. <br><br>Jeśli odpowie ona „Dobrze”, obaj sąsiedzi zapytanego zmieniają się miejscami. Osoba pytająca stara się w tym czasie zająć jedno z ich miejsc. <br><br>Jeśli padnie odpowiedź „Źle”, miejsca zmieniają wszyscy gracze, a osoba, która nie znajdzie miejsca, zostaje w środku i kontynuuje grę. ",
+        "image": "images\/jako_tako.jpeg",
+        "equipment": "brak",
+        "variety": "<br><br>Do pytania „Jak się masz?” możecie również dodawać imię do przypomnienia sobie, jak nazywają się nowi koledzy i koleżanki.  ",
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "31",
+        "title": "Kalamburowy głuchy telefon",
+        "description": "Uczestnicy ustawiają się jeden za drugim. Osoba stojąca na początku kolejki wymyśla krótką historię, np. o wyścigu kajakowym i radości na mecie. Dotyka w ramię osobę przed sobą, aby się odwróciła i pokazuje mu ruchami tę historię nie wydobywając z siebie dźwięków. Osoba, która właśnie oglądnęła tę historię, musi przekazać ją dalej. W ten sposób historia przechodzi przez kolejnych uczestników. Ostatnia osoba odwraca się do całej grupy i powtarza ruchowo tę historię, którą zrozumiała. Zwykle na końcu opowieść jest zupełnie inna, co przynosi dużo śmiechu wszystkim uczestnikom.",
+        "image": "images\/kalamburowy_gluchy_telefon.jpeg",
+        "equipment": "brak",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "32",
+        "title": "Sałatka owocowa",
+        "description": "Ustawiamy krzesła w kręgu, skierowane do środka, ale jest ich o jedno mniej niż liczba uczestników. <br><br>Jedna osoba stoi w środku. <br><br>Każdemu z graczy przypisujemy nazwę owocu, np. jabłko, banan, gruszka, cytryna, ananas itp., używając co najmniej trzech różnych nazw. <br><br>Osoba w środku ogłasza, że chce zrobić sałatkę owocową z wybranych owoców, np. z jabłek, śliwek i melonów.<br><br> Wówczas osoby, którym przypisano te owoce, muszą szybko wstać i zamienić się miejscami, a osoba w środku próbuje zająć jedno z wolnych krzeseł.<br><br> Osoba, która zostanie bez miejsca, przejmuje rolę i decyduje, które owoce mają się zamienić. <br><br>Jeśli osoba w środku krzyknie „Sałatka owocowa”, wszyscy uczestnicy muszą zamienić się miejscami.",
+        "image": "images\/salatka_owocowa.jpeg",
+        "equipment": "krzesła",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "33",
+        "title": "Skojarzenia",
+        "description": "Uczestnicy ustawiają się w kręgu i rzucają sobie piłkę. <br><br>Każda osoba, która otrzyma piłkę, musi podać skojarzenie do słowa wypowiedzianego przez poprzednią osobę, od której otrzymała rzut. <br><br>\r\nGrę można dostosować do tematu zajęć, prosząc uczestników o skojarzenia związane z konkretnym zagadnieniem.<br><br> W ten sposób powstanie zbiór skojarzeń, który może pomóc w lepszym zrozumieniu omawianego tematu.<br><br>\r\n",
+        "image": "images\/skojarzenia.jpeg",
+        "equipment": "piłeczka",
+        "variety": "Można podawać słowa zaczynające się na ostatnią literę poprzedniego słowa, które powiedziała osoba rzucająca piłkę.",
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    },
+    {
+        "game_id": "34",
+        "title": "Tratwa",
+        "description": "Na środku sali leży koc, który symbolizuje tratwę. <br><br>Uczestnicy zostają zaproszeni na podróż tratwą – wchodzą na koc. Optymalnie na tratwie powinno się zmieścić 15-16 osób. Jeśli grupa jest większa, można przygotować dwie tratwy i wprowadzić element rywalizacji między grupami. <br><br>Zadaniem osób stojących na tratwie jest przewrócenie koca na drugą stronę, bez użycia rąk i bez upadku kogokolwiek poza tratwę.<br><br>\r\nPo zakończeniu gry warto omówić z uczestnikami, co sprawiło im największą trudność i jak doszli do rozwiązania, które pozwoliło im wygrać. Te pytania pomogą lepiej zrozumieć, jak przebiegała współpraca w grupie.\r\n",
+        "image": "images\/tratwa.jpeg",
+        "equipment": "koc",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Dla najmłodszych",
+            "Integracyjne"
+        ]
+    },
+    {
+        "game_id": "35",
+        "title": "Supełki",
+        "description": "Każdy uczestnik otrzymuje kawałek sznurka.<br><br> Następnie wszyscy podchodzą do siebie nawzajem, aby powiedzieć coś miłego, co cenią lub lubią w drugiej osobie, a w tym samym czasie zawiązują na swoim sznurku supełek. <br><br>Kiedy wszyscy skończą, każdy sznurek staje się znacznie krótszy, pełen symbolicznych węzłów, z których każdy odzwierciedla jedną relację i miłe słowo otrzymane od innych. <br><br>Te supełki są symbolem więzi, które tworzą się w grupie, oraz pozytywnych cech, które każdy wnosi do wspólnej przestrzeni.",
+        "image": "images\/supelki.jpeg",
+        "equipment": "sznureczki",
+        "variety": null,
+        "comment": null,
+        "categories": [
+            "Integracyjne",
+            "Spotkanie w grupie"
+        ]
+    }
+]
