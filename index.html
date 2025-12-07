@@ -10,7 +10,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <!-- Wymusza, aby przeglądarka nie cache'owała strony -->
     <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
@@ -41,7 +40,7 @@
   <h2 class="text-center mb-4">Zainspiruj się!</h2>
   <div id="gamesCarousel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner" id="games-container">
-      <!-- Gry zostaną dodane przez JavaScript -->
+      <!-- Dodanie gier przez JavaScript -->
     </div>
 
     <a class="carousel-control-prev" href="#gamesCarousel" role="button" data-slide="prev">
@@ -53,7 +52,7 @@
   </div>
 </div>
 
-<!-- Dołącz gotowy szablon modala -->
+<!-- Dołączenie szablonu modala -->
 <div id="game-modal-placeholder"></div>
 
 <!-- Dołączenie dynamicznie Stopki -->
@@ -94,7 +93,7 @@ fetch("partials/footer.html")
   .then(response => response.text())
   .then(data => {
     document.getElementById("footer-placeholder").innerHTML = data;
-    // po wczytaniu stopki ustaw aktualny rok
+    // po wczytaniu stopki ustawienie aktualnego roku
     document.getElementById("current-year").textContent = new Date().getFullYear();
   })
   .catch(error => console.error("Błąd wczytywania stopki:", error));
@@ -106,7 +105,7 @@ fetch("partials/menu.html")
   .then(data => {
     document.getElementById("menu-placeholder").innerHTML = data;
 
-    // Opcjonalnie: podświetl aktywny link w menu
+    // podświetlenie aktywnego linku w menu
     const currentPage = window.location.pathname.split("/").pop();
     document.querySelectorAll("#menu-placeholder .nav-link").forEach(link => {
       if (link.getAttribute("href") === currentPage) {
@@ -122,7 +121,7 @@ fetch("partials/menu.html")
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
-  // 🔹 Funkcja do wczytywania gier z JSON
+  // Funkcja do wczytywania gier z JSON
   function loadGames() {
     fetch("games/games.json")
       .then(res => res.json())
@@ -166,19 +165,19 @@ document.addEventListener("DOMContentLoaded", function () {
       .catch(error => console.error("Błąd wczytywania gier:", error));
   }
 
-  // 🔹 Obsługa modalu
+  //  Obsługa modalu
   document.addEventListener("click", (event) => {
     if (event.target.classList.contains("read-more")) {
       const button = event.target;
       const modal = $("#gameModal");
 
-      // 🔹 Wstawianie treści modala
+      // Wstawianie treści modala
       modal.find("#modal-title").text(button.dataset.title);
       modal.find("#modal-image").attr("src", button.dataset.image).attr("alt", button.dataset.title);
       modal.find("#modal-description").html(button.dataset.description);
       modal.find("#modal-equipment").text(button.dataset.equipment);
 
-      // 🔹 Urozmaicenie
+      // Urozmaicenie
       if (button.dataset.variety && button.dataset.variety !== "null" && button.dataset.variety.trim() !== "") {
         modal.find("#modal-variety-row").show();
         modal.find("#modal-variety").text(button.dataset.variety);
@@ -186,7 +185,7 @@ document.addEventListener("DOMContentLoaded", function () {
         modal.find("#modal-variety-row").hide();
       }
 
-      // 🔹 Uwaga
+      // Uwaga
       if (button.dataset.comment && button.dataset.comment !== "null" && button.dataset.comment.trim() !== "") {
         modal.find("#modal-comment-row").show();
         modal.find("#modal-comment").text(button.dataset.comment);
@@ -194,16 +193,16 @@ document.addEventListener("DOMContentLoaded", function () {
         modal.find("#modal-comment-row").hide();
       }
 
-      // 🔹 Pokaż modal
+      // Pokazanie modalu
       modal.modal("show");
 
-      // 🔹 Wymuś scroll w modal-body i ustaw max-height
+      // Wymuszenie scrolla w modal-body
       modal.find('.modal-body').css({
         'max-height': '80vh',
         'overflow-y': 'auto'
       });
 
-      // 🔹 Przewiń modal do góry po pełnym otwarciu
+      // Przewiniecie modalu do góry po pełnym otwarciu
       modal.off('shown.bs.modal').on('shown.bs.modal', function () {
         $(this).scrollTop(0); // przewiń cały modal
       });
@@ -211,7 +210,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
-  // 🔹 Uruchom wczytywanie gier po załadowaniu strony
+  // Uruchomienie wczytywania gier po załadowaniu strony
   loadGames();
 
 });
@@ -228,4 +227,5 @@ $(document).on('shown.bs.modal', '#gameModal', function () {
 
 </body>
 </html>
+
 
