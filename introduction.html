@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function() {
     fetch("games/games.json")
         .then(res => res.json())
         .then(games => {
-            // 🔹 Filtrujemy tylko gry z kategorii "Zapoznawcze"
+            // Filtrujemy tylko gry z kategorii "Zapoznawcze"
             const zapoznawczeGames = games.filter(game => 
                 game.categories && game.categories.some(cat => cat.trim().toLowerCase() === "zapoznawcze")
             );
@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return;
             }
 
-            // 🔹 Wyświetlanie tylko przefiltrowanych gier
+            // Wyświetlanie tylko przefiltrowanych gier
             let html = '<div class="row">';
             zapoznawczeGames.forEach(game => {
                 html += `
@@ -129,13 +129,13 @@ document.addEventListener("click", function(event){
         const button = event.target;
         const modal = $("#gameModal"); // musi istnieć w DOM (fetch partiala)
 
-        // 🔹 Wstawianie treści modala
+        // Wstawianie treści modala
         modal.find("#modal-title").text(button.dataset.title);
         modal.find("#modal-image").attr("src", button.dataset.image).attr("alt", button.dataset.title);
         modal.find("#modal-description").html(button.dataset.description);
         modal.find("#modal-equipment").text(button.dataset.equipment);
 
-        // 🔹 Urozmaicenie
+        // Urozmaicenie
         if(button.dataset.variety && button.dataset.variety.trim() !== "" && button.dataset.variety !== "null"){
             modal.find("#modal-variety-row").show();
             modal.find("#modal-variety").html(button.dataset.variety);
@@ -143,7 +143,7 @@ document.addEventListener("click", function(event){
             modal.find("#modal-variety-row").hide();
         }
 
-        // 🔹 Uwaga
+        // Uwaga
         if(button.dataset.comment && button.dataset.comment.trim() !== "" && button.dataset.comment !== "null"){
             modal.find("#modal-comment-row").show();
             modal.find("#modal-comment").html(button.dataset.comment);
@@ -151,16 +151,16 @@ document.addEventListener("click", function(event){
             modal.find("#modal-comment-row").hide();
         }
 
-        // 🔹 Pokaż modal
+        // Pokaż modal
         modal.modal("show");
 
-        // 🔹 Ustaw przewijalność modal-body
+        // Ustaw przewijalność modal-body
         modal.find('.modal-body').css({
             'max-height': '80vh',
             'overflow-y': 'auto'
         });
 
-        // 🔹 Reset scrolla modal-body do góry po pełnym otwarciu
+        // Reset scrolla modal-body do góry po pełnym otwarciu
         modal.off('shown.bs.modal').on('shown.bs.modal', function () {
             $(this).find('.modal-body').scrollTop(0);
         });
@@ -170,3 +170,4 @@ document.addEventListener("click", function(event){
 </script>
 </body>
 </html>
+
