@@ -131,13 +131,13 @@ document.addEventListener("click", function(event){
         const button = event.target;
         const modal = $("#gameModal"); // musi istnieć w DOM (fetch partiala)
 
-        // 🔹 Wstawianie treści modala
+        // Wstawianie treści modala
         modal.find("#modal-title").text(button.dataset.title);
         modal.find("#modal-image").attr("src", button.dataset.image).attr("alt", button.dataset.title);
         modal.find("#modal-description").html(button.dataset.description);
         modal.find("#modal-equipment").text(button.dataset.equipment);
 
-        // 🔹 Urozmaicenie
+        // Urozmaicenie
         if(button.dataset.variety && button.dataset.variety.trim() !== "" && button.dataset.variety !== "null"){
             modal.find("#modal-variety-row").show();
             modal.find("#modal-variety").html(button.dataset.variety);
@@ -172,4 +172,5 @@ document.addEventListener("click", function(event){
 </script>
 </body>
 </html>
+
 
